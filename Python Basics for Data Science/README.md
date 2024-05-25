@@ -1,8 +1,6 @@
 
 # Python Basics for Data Science
 
-The objective of this course is to get you started with Python as the programming language and give you a taste of how to start working with data in Python.
-
 In this course you will learn about:
 
 - What Python is and why is it useful.
