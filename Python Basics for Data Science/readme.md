@@ -36,4 +36,4 @@ For python Documentation 👉🏻[click here](https://docs.python.org/3/)
 I'm a Data Scientist and ML engineer...
 
 if you have any queries ,please reach out to me at 
-nagendrareddybaddri@gmail.com
+nagendrareddybadduri@gmail.com
